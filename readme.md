@@ -73,52 +73,51 @@
   nano readme.md
   git status
   git config --global --list
---git config --global user.name "Farid"
---git config --global user.email "wfarid@gmail.com"
---git config --global --list
---git clone C:/Users/RIA/projectName.git/
---mkdir projectName.git
---cd projectName.git/
---git init --bare
---git pull origin master
---nano readme.md
---git status
---git status
---git commit -am "update readme file"
---git status
---git push -u origin master
---git init --bare
---git clone ? clone ?
---git clone
---git clone
---git clone E:/projectName.git/
---cd projectName/
---dir
---git status
---git add 404.html
---git status
---git add .
---git status
---git commit -m "initial commit" .
---git push -u origin master
---git status
---git branch
---git branch dev
---git branch
---git checkout dev
---git branch
---touch readme.md
---git branch
---git status
---git add .
---git commit -m "modified and add readme file" .
---git push -u origin dev
---git push -u origin dev
---git bracnh
---git branch
---git checkout master
---git merge dev
---git staus
---git status
---ssh-keygen -t rsa -C "w3farid@gmail.com"
-
+git config --global user.name "Farid"
+git config --global user.email "wfarid@gmail.com"
+git config --global --list
+git clone C:/Users/RIA/projectName.git/
+mkdir projectName.git
+cd projectName.git/
+git init --bare
+git pull origin master
+nano readme.md
+git status
+git status
+git commit -am "update readme file"
+git status
+git push -u origin master
+git init --bare
+git clone ? clone ?
+git clone
+git clone
+git clone E:/projectName.git/
+cd projectName/
+dir
+git status
+git add 404.html
+git status
+git add .
+git status
+git commit -m "initial commit" .
+git push -u origin master
+git status
+git branch
+git branch dev
+git branch
+git checkout dev
+git branch
+touch readme.md
+git branch
+git status
+git add .
+git commit -m "modified and add readme file" .
+git push -u origin dev
+git push -u origin dev
+git bracnh
+git branch
+git checkout master
+git merge dev
+git staus
+git status
+ssh-keygen -t rsa -C "w3farid@gmail.com"
