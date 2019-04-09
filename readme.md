@@ -1,24 +1,44 @@
 ###history
-  java -version
+  ''java -version
+  
   mvn -version
+  
   mkdir projectName.git
+  
   cd projectName.git/
+  
   git init
+  
   mkdir ProjectName
+  
   cd ProjectName/
+  
   mkdir projectName
+  
   cd projectName/
+  
   ls
+  
   git init
+  
   touch readme.md
+  
   dir
+  
   nano readme.md
+  
   git status
+  
   git add .
+  
   git commit -m "M" .
+  
   git config --global user.name "farid ahmed" .
+  
   git config --global user.email "W3farid@gmail.com"
+  
   git config --list
+  
   git config --global --lsit
   git config --lsit
   git config --global list
@@ -27,13 +47,22 @@
   git remote -v
   git status
   git commit -m "m"
+  
   git push -u origin master
+  
   git push -u origin master
+  
   git push -u origin master
+  
   git clone C:/Users/RIA/Downloads/projectName.git/
+  
+  
   touch readme.md
+  
   nano readme.md
+  
   git status
+  
   git commit -m "M" .
   git status
   git add .
@@ -120,4 +149,4 @@ git checkout master
 git merge dev
 git staus
 git status
-ssh-keygen -t rsa -C "w3farid@gmail.com"
+ssh-keygen -t rsa -C "w3farid@gmail.com"''
