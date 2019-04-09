@@ -1,125 +1,124 @@
-history
-    --1  java -version
-    --2  mvn -version
-    --3  mkdir projectName.git
-    --4  cd projectName.git/
-    --5  git init
-    --6  mkdir ProjectName
-    --7  cd ProjectName/
-    --8  mkdir projectName
-    --9  cd projectName/
-   --10  ls
-   --11  git init
-   --12  touch readme.md
-   --13  dir
-   --14  nano readme.md
-   --15  git status
-   --16  git add .
-  -- 17  git commit -m "M" .
-   --18  git config --global user.name "farid ahmed" .
-   --19  git config --global user.email "W3farid@gmail.com"
-   --20  git config --list
-   --21  git config --global --lsit
-  -- 22  git config --lsit
-   --23  git config --global list
-   --24  git config --global --list
-   --25  git remote add origin ?C:/Users/RIA/Downloads/projectName.git/
-   --26  git remote -v
-   --27  git status
-   --28  git commit -m "m"
-   --29  git push -u origin master
-   --30  git push -u origin master
-   --31  git push -u origin master
-   --32  git clone C:/Users/RIA/Downloads/projectName.git/
-   --33  touch readme.md
-   --34  nano readme.md
-   --35  git status
-   --36  git commit -m "M" .
-   --37  git status
-   --38  git add .
-   --39  git commit -m "modified"
-   --40  git push origin master
-   --41  git status
-   --42  git remote -v
-   --43  mkdir projectName.git
-  -- 44  cd projectName.git/
-  -- 45  dir
-   --46  git init --bare
-  -- 47  ssh-kegen -t rsa -C "w3farid@gmail.com"
-   --48  ssh-kegen
-   --49  ssh-keygen -t rsa -C "w3farid@gmail.com"
-   --50  mkdir projectName.git
-   --51  cd projectName.git/
-   --52  pwd
-   --53  git init -bare
-   --54  git init --bare
-   --55  git clone C:\Users\RIA\projectName.git
-   --56  git clone C:/Users/RIA/projectName.git/
-   ----57  git clone C:/Users/RIA/projectName.git/
-   --58  cd projectName/
-   --59  dir
-   --60  pwd
-   --61  touch readme.md
-   --62  dir
-   --63  git status
-   --64  git add .
-   ----65  git status
-   --66  nano readme.md
-   --67  git status
-   --68  git commit -am "add readme file and update content"
-   --69  git branch
-   --70  git remote -v
-   --71  git push -u origin master
-   --72  nano readme.md
-   --73  git status
-   --74  git config --global --list
---   75  git config --global user.name "Farid"
---   76  git config --global user.email "wfarid@gmail.com"
---   77  git config --global --list
---   78  git clone C:/Users/RIA/projectName.git/
---   79  mkdir projectName.git
---   80  cd projectName.git/
---   81  git init --bare
---   82  git pull origin master
---   83  nano readme.md
---   84  git status
---   85  git status
---   86  git commit -am "update readme file"
---   87  git status
---   88  git push -u origin master
---   89  git init --bare
---   90  git clone ? clone ?
---   91  git clone
---   92  git clone
---   93  git clone E:/projectName.git/
---   94  cd projectName/
---   95  dir
---   96  git status
---   97  git add 404.html
---   98  git status
---   99  git add .
---  100  git status
---  101  git commit -m "initial commit" .
---  102  git push -u origin master
---  103  git status
---  104  git branch
---  105  git branch dev
---  106  git branch
---  107  git checkout dev
---  108  git branch
---  109  touch readme.md
---  110  git branch
---  111  git status
---  112  git add .
---  113  git commit -m "modified and add readme file" .
---  114  git push -u origin dev
---  115  git push -u origin dev
---  116  git bracnh
---  117  git branch
---  118  git checkout master
---  119  git merge dev
---  120  git staus
---  121  git status
---  122  ssh-keygen -t rsa -C "w3farid@gmail.com"
---  123  history
+###history
+  java -version
+  mvn -version
+  mkdir projectName.git
+  cd projectName.git/
+  git init
+  mkdir ProjectName
+  cd ProjectName/
+  mkdir projectName
+  cd projectName/
+  ls
+  git init
+  touch readme.md
+  dir
+  nano readme.md
+  git status
+  git add .
+  git commit -m "M" .
+  git config --global user.name "farid ahmed" .
+  git config --global user.email "W3farid@gmail.com"
+  git config --list
+  git config --global --lsit
+  git config --lsit
+  git config --global list
+  git config --global --list
+  git remote add origin ?C:/Users/RIA/Downloads/projectName.git/
+  git remote -v
+  git status
+  git commit -m "m"
+  git push -u origin master
+  git push -u origin master
+  git push -u origin master
+  git clone C:/Users/RIA/Downloads/projectName.git/
+  touch readme.md
+  nano readme.md
+  git status
+  git commit -m "M" .
+  git status
+  git add .
+  git commit -m "modified"
+  git push origin master
+  git status
+  git remote -v
+  mkdir projectName.git
+  cd projectName.git/
+  dir
+  git init --bare
+  ssh-kegen -t rsa -C "w3farid@gmail.com"
+  ssh-kegen
+  ssh-keygen -t rsa -C "w3farid@gmail.com"
+  mkdir projectName.git
+  cd projectName.git/
+  pwd
+  git init -bare
+  git init --bare
+  git clone C:\Users\RIA\projectName.git
+  git clone C:/Users/RIA/projectName.git/
+    git clone C:/Users/RIA/projectName.git/
+  cd projectName/
+  dir
+  pwd
+  touch readme.md
+  dir
+  git status
+  git add .
+    git status
+  nano readme.md
+  git status
+  git commit -am "add readme file and update content"
+  git branch
+  git remote -v
+  git push -u origin master
+  nano readme.md
+  git status
+  git config --global --list
+--git config --global user.name "Farid"
+--git config --global user.email "wfarid@gmail.com"
+--git config --global --list
+--git clone C:/Users/RIA/projectName.git/
+--mkdir projectName.git
+--cd projectName.git/
+--git init --bare
+--git pull origin master
+--nano readme.md
+--git status
+--git status
+--git commit -am "update readme file"
+--git status
+--git push -u origin master
+--git init --bare
+--git clone ? clone ?
+--git clone
+--git clone
+--git clone E:/projectName.git/
+--cd projectName/
+--dir
+--git status
+--git add 404.html
+--git status
+--git add .
+--git status
+--git commit -m "initial commit" .
+--git push -u origin master
+--git status
+--git branch
+--git branch dev
+--git branch
+--git checkout dev
+--git branch
+--touch readme.md
+--git branch
+--git status
+--git add .
+--git commit -m "modified and add readme file" .
+--git push -u origin dev
+--git push -u origin dev
+--git bracnh
+--git branch
+--git checkout master
+--git merge dev
+--git staus
+--git status
+--ssh-keygen -t rsa -C "w3farid@gmail.com"
 
